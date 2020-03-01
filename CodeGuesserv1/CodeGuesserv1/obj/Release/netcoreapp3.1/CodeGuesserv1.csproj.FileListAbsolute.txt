@@ -1,0 +1,11 @@
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.exe
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.deps.json
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.runtimeconfig.json
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.runtimeconfig.dev.json
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.dll
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\bin\Release\netcoreapp3.1\CodeGuesserv1.pdb
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\obj\Release\netcoreapp3.1\CodeGuesserv1.AssemblyInfoInputs.cache
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\obj\Release\netcoreapp3.1\CodeGuesserv1.AssemblyInfo.cs
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\obj\Release\netcoreapp3.1\CodeGuesserv1.dll
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\obj\Release\netcoreapp3.1\CodeGuesserv1.pdb
+C:\dev\test\codeguesser\CodeGuesserv1\CodeGuesserv1\obj\Release\netcoreapp3.1\CodeGuesserv1.csprojAssemblyReference.cache
